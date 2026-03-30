@@ -1,6 +1,6 @@
 # dotfiles
 
-https://hjestaedt.github.io/dotfiles/
+https://hjtdt.github.io/dotfiles/
 
 ## install
 
